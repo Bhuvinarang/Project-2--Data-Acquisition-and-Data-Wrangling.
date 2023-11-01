@@ -13,6 +13,23 @@ In the Jupyter Notebook included in this repository, you will find examples of h
 5. Checking Cental Tendency, skewness and correlation.
 7. By following this notebook, you will gain a better understanding of how to effectively work with data using Pandas and Numpy, making you well-equipped to tackle data-related challenges in your projects.
 
+# Getting Started
+To get started with this project, follow these steps:
+1. Clone this repository to your local machine:
+       git clone https://github.com/your-username/data-wrangling-pandas-numpy.git
+   
+3. Install the required dependencies. You can use pip to install them:
+       pip install pandas numpy jupyter matplotlib
+   
+5. Navigate to the project directory:
+       cd data-wrangling-pandas-numpy
+   
+7. Launch Jupyter Notebook and open the file to start learning and practicing data wrangling techniques.
+       
+# Prerequisites
+To fully benefit from this project, you should have a basic understanding of Python and data analysis concepts. Familiarity with Pandas and Numpy is a plus but not mandatory. You can learn as you go through the notebooks.
+
+
 # Contributing
 If you would like to contribute to this project by adding more examples, improving documentation, or fixing issues, please follow these steps:
 
