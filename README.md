@@ -18,13 +18,13 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
        git clone https://github.com/Bhuvinarang/Project-2--Data-Acquisition-and-Data-Wrangling.git
    
-3. Install the required dependencies. You can use pip to install them:
+2. Install the required dependencies. You can use pip to install them:
        pip install pandas numpy jupyter matplotlib
    
-5. Navigate to the project directory:
+3. Navigate to the project directory:
        cd Project-2--Data-Acquisition-and-Data-Wrangling
    
-7. Launch Jupyter Notebook and open the file to start learning and practicing data wrangling techniques.
+4. Launch Jupyter Notebook and open the file to start learning and practicing data wrangling techniques.
        
 # Prerequisites
 To fully benefit from this project, you should have a basic understanding of Python and data analysis concepts. Familiarity with Pandas and Numpy is a plus but not mandatory. You can learn as you go through the notebooks.
