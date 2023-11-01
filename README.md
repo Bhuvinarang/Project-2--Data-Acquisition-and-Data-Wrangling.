@@ -16,13 +16,13 @@ In the Jupyter Notebook included in this repository, you will find examples of h
 # Getting Started
 To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
-       git clone https://github.com/your-username/data-wrangling-pandas-numpy.git
+       git clone https://github.com/Bhuvinarang/Project-2--Data-Acquisition-and-Data-Wrangling.git
    
 3. Install the required dependencies. You can use pip to install them:
        pip install pandas numpy jupyter matplotlib
    
 5. Navigate to the project directory:
-       cd data-wrangling-pandas-numpy
+       cd Project-2--Data-Acquisition-and-Data-Wrangling
    
 7. Launch Jupyter Notebook and open the file to start learning and practicing data wrangling techniques.
        
